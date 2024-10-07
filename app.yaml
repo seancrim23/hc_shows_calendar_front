@@ -11,7 +11,7 @@ handlers:
     upload: build/index.html
     secure: always
 env_variables:
-  REACT_APP_BACK_URL: "https://hc-shows-calendar-back-579577637587.us-east4.run.app/"
+  REACT_APP_BACK_URL: "https://hc-shows-calendar-back-579577637587.us-east4.run.app"
   REACT_APP_MY_EMAIL: "sean.g.crim@gmail.com"
   REACT_APP_GOOGLE_URL: "https://storage.googleapis.com/"
   REACT_APP_RESUME_BUCKET: ""
